@@ -1,4 +1,4 @@
-# Lokale SEO Sitemap Manager
+# Local SEO Sitemap Manager
 
 A WordPress plugin for managing local SEO landing pages, including metadata handling, snippet management, and XML sitemap generation. Designed to work seamlessly with Roots Sage theme and Blade templates.
 
