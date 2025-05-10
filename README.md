@@ -1,6 +1,8 @@
-# Local SEO Sitemap Manager
+# Local SEO Sitemap Manager – Powerful WordPress SEO Plugin for Local Landing Pages and XML Sitemaps
 
-A WordPress plugin for managing local SEO landing pages, including metadata handling, snippet management, and XML sitemap generation. Designed to work seamlessly with Roots Sage theme and Blade templates.
+A powerful WordPress plugin for creating, managing, and optimizing local SEO landing pages – with automated XML sitemap generation, dynamic metadata, and Blade view integration.
+
+Enhance your WordPress site with fully optimized local SEO landing pages. This plugin provides structured metadata management, reusable content blocks, and automatic sitemap support – ideal for businesses targeting regional search traffic.
 
 ## Features
 
@@ -40,6 +42,12 @@ A WordPress plugin for managing local SEO landing pages, including metadata hand
 ---
 
 ## Usage Guide
+
+Below are example screenshots of the plugin in use:
+
+![Screenshot 1 – Admin Entry Overview](./screen_1.png)
+![Screenshot 2 – Edit Metadata and Snippet](./screen_2.png)
+![Screenshot 3 – Frontend Rendered Page](./screen_3.png)
 
 ### 1. Add a Local Entry
 
